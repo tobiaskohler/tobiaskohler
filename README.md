@@ -35,8 +35,8 @@
 
 <ul>
   <li><b><a href="https://github.com/tobiaskohler/WikifolioPy" target="_blank">Wikifolio Trading Engine</a> - a refersed-engineered Wikifolio Controller</b></li>
-  <b>❇️</b>Login/Logout from your Wikifolio account<br>
-  <b>❇️</b>Retrieve Portfolio Value<br>
-  <b>❇️</b>Retrieve Portfolio Items<br>
+  <b>❇️</b> Login/Logout from your Wikifolio account<br>
+  <b>❇️</b> Retrieve Portfolio Value<br>
+  <b>❇️</b> Retrieve Portfolio Items<br>
   Remark: Never finished this project, maybe will in future. Still hope that Wikifolio opens it's API soon ;)
 </ul>
