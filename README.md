@@ -34,7 +34,7 @@
 </ul>
 
 <ul>
-  <li><b><a href="https://github.com/tobiaskohler/WikifolioPy" target="_blank">Wikifolio Trading Engine</a> - a refersed-engineered Wikifolio Controller</b></li>
+  <li><b><a href="https://github.com/tobiaskohler/WikifolioPy" target="_blank">Wikifolio Trading Engine</a> - a reverse-engineered Wikifolio Controller</b></li>
   <b>❇️</b> Login/Logout from your Wikifolio account<br>
   <b>❇️</b> Retrieve Portfolio Value<br>
   <b>❇️</b> Retrieve Portfolio Items<br>
