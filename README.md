@@ -1,10 +1,8 @@
 <h2>About</h2>
 <ul>
-<li>finance professional, programming autodidact</li>
-<li>Portfolio management, trading strategies & technologies, MTFs</li>
-<li>Volatility is your friend</li>
-<li>DLT supporter, VIM lover, Google Cloud enthusiast</li>
-<li>AI blows my mind</li>
+<li>Finance professional with a tech-driven edge</li>
+<li>Market microstructure, Stock exchanges and trading strategies</li>
+<li>Bitcoin enthusiast, VIM user, and AI advocate</li>
 </ul>
 
 
